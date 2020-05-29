@@ -1,0 +1,12 @@
+Origin: Casual's Repo
+Label: Casual's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Just a guy making some stuff
+
+SHA256:
+ 24d0a2fae6a86aa6e052055271da95cddbe7efacf8916eaec371c394481ad3a2 540 Packages.bz2
+ 6cc8aab47ff15479104fc35c13f2e00d6448cbbbb0153a6986b1991448e9fd6a 520 Packages.xz
